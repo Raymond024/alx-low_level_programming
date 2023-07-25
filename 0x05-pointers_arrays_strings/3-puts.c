@@ -5,7 +5,7 @@
  * @str: pointer to the string
  * Return: string and new line
  */
-int _putchar(char c);
+int _putchar(char c)
 
 void _puts(char *str)
 {
