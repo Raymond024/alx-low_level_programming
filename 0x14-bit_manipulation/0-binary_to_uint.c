@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 #include "main.h"
 /**
  * binary_to_uint - convetrs number to unsigned int
