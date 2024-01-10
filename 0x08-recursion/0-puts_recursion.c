@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _puts_recursion - function like puts();
+ * _puts_recursion - functions the same way as puts() function
  * @str: input
  * Return: Always 0
  */
