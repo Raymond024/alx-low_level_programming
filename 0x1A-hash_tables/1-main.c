@@ -19,3 +19,4 @@ int main(void)
     s = "98";
     printf("%lu\n", hash_djb2((unsigned char *)s));
     return (EXIT_SUCCESS);
+}
